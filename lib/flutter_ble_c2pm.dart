@@ -5,7 +5,9 @@ export 'src/csafe/csafe_commands.dart';
 export 'src/models/data_conv_utils.dart';
 export 'src/models/pm_data.dart';
 export 'src/models/stroke_data.dart';
+export 'src/pm_ble_wrapper.dart';
 export 'src/pm_device.dart';
+export 'src/select_device_screen.dart';
 
 /// A Calculator.
 class Calculator {
