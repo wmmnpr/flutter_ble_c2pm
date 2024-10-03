@@ -2,6 +2,8 @@ library flutter_ble_c2pm;
 
 export 'src/csafe/c2proplongsetconfigcommands.dart';
 export 'src/csafe/csafe_commands.dart';
+export 'src/models/additional_status1.dart';
+export 'src/models/additional_status2.dart';
 export 'src/models/data_conv_utils.dart';
 export 'src/models/pm_data.dart';
 export 'src/models/stroke_data.dart';
