@@ -1,7 +1,11 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus-1.32.12" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus_darwin-7.0.3" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus_android-7.0.4" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus_linux-7.0.3" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus-1.36.8" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_blue_plus_web-7.0.2" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
